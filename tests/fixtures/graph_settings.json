@@ -1,0 +1,10 @@
+[
+  {
+    "id": "bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbbb",
+    "settingInstance": {
+      "@odata.type": "#microsoft.graph.deviceManagementConfigurationSimpleSettingInstance",
+      "settingDefinitionId": "linux_password_minimum_length",
+      "simpleSettingValue": {"value": 12}
+    }
+  }
+]
