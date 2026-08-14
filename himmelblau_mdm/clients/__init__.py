@@ -1,0 +1,1 @@
+"""Microsoft service clients."""

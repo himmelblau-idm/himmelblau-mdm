@@ -1,0 +1,7 @@
+{
+  "id": "aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+  "name": "Password policy",
+  "description": "Require password properties",
+  "lastModifiedDateTime": "2026-08-12T10:00:00Z",
+  "_source": "configurationPolicies"
+}
